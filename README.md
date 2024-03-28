@@ -74,7 +74,7 @@ Pour toute question, suggestion ou demande, n'hésitez pas à nous contacter à 
 ## Crédits
 
 - **[Rennsen (Rayan Derradji)](https://github.com/Rennsen)**: Implémentation du Projet Unity
-- **ESI Deep Minds Members**:
+- **Membres d'ESI Deep Minds**:
   - [Rayan Derradji](https://github.com/Rennsen)
   - [Tarek Ait Ahmed](https://github.com/tarek-ait)
   - [Abdellah Zeghmar](https://github.com/Abdellahz0)
